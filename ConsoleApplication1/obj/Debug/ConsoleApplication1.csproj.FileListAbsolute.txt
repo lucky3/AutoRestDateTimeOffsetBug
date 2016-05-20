@@ -1,0 +1,10 @@
+c:\users\janezl\documents\visual studio 2015\Projects\SwaggerAutoRestBug\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\janezl\documents\visual studio 2015\Projects\SwaggerAutoRestBug\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\janezl\documents\visual studio 2015\Projects\SwaggerAutoRestBug\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\janezl\documents\visual studio 2015\Projects\SwaggerAutoRestBug\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\janezl\documents\visual studio 2015\Projects\SwaggerAutoRestBug\ConsoleApplication1\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+c:\users\janezl\documents\visual studio 2015\Projects\SwaggerAutoRestBug\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+c:\users\janezl\documents\visual studio 2015\Projects\SwaggerAutoRestBug\ConsoleApplication1\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+c:\users\janezl\documents\visual studio 2015\Projects\SwaggerAutoRestBug\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+c:\users\janezl\documents\visual studio 2015\Projects\SwaggerAutoRestBug\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\janezl\documents\visual studio 2015\Projects\SwaggerAutoRestBug\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
