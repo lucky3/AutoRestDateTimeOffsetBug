@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using ConsoleApplication1.Models;
 
@@ -11,6 +13,15 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("**********************************************************************");
+            Console.WriteLine("Try toggling those two culture, and observe the difference in case two");
+            Console.WriteLine("**********************************************************************");
+            Console.WriteLine();
+
+            //var targetedCulture = CultureInfo.CreateSpecificCulture("en-US");
+            var targetedCulture = CultureInfo.CreateSpecificCulture("sl-SI");
+            CultureInfo.DefaultThreadCurrentCulture = targetedCulture;
+
             PrintIntroInformation();
 
             var api = new WebApi1();

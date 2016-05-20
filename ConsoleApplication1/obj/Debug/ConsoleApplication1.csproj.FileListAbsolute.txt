@@ -8,3 +8,13 @@ c:\users\janezl\documents\visual studio 2015\Projects\SwaggerAutoRestBug\Console
 c:\users\janezl\documents\visual studio 2015\Projects\SwaggerAutoRestBug\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
 c:\users\janezl\documents\visual studio 2015\Projects\SwaggerAutoRestBug\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 c:\users\janezl\documents\visual studio 2015\Projects\SwaggerAutoRestBug\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\JanezL\Documents\AutoRestDateTimeOffsetBug\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\JanezL\Documents\AutoRestDateTimeOffsetBug\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\JanezL\Documents\AutoRestDateTimeOffsetBug\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\JanezL\Documents\AutoRestDateTimeOffsetBug\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\JanezL\Documents\AutoRestDateTimeOffsetBug\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\JanezL\Documents\AutoRestDateTimeOffsetBug\ConsoleApplication1\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\JanezL\Documents\AutoRestDateTimeOffsetBug\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JanezL\Documents\AutoRestDateTimeOffsetBug\ConsoleApplication1\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\JanezL\Documents\AutoRestDateTimeOffsetBug\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JanezL\Documents\AutoRestDateTimeOffsetBug\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
